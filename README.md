@@ -1,4 +1,4 @@
-# Site Thalles Roberto - Fã-site
+# Site Thalles Roberto 
 
 Este é um fã-site dedicado ao cantor Thalles Roberto, criado para fins educacionais e de demonstração. Ele apresenta informações sobre a biografia, carreira, discografia, agenda de shows e opções de contato.
 
