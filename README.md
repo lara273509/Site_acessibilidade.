@@ -25,9 +25,3 @@ Este site passou por algumas correções e melhorias para garantir seu funcionam
 -   CSS3
 -   JavaScript
 
-## Contribuição
-
-Este é um projeto de demonstração. Contribuições são bem-vindas para fins educacionais e de aprimoramento.
-
----
-
