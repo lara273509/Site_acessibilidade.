@@ -19,14 +19,6 @@ Este site passou por algumas correções e melhorias para garantir seu funcionam
 2.  **Menu Mobile:** O CSS foi ajustado para que o menu de navegação funcione perfeitamente em dispositivos móveis, exibindo um botão hambúrguer e um menu expansível.
 3.  **Caminhos de Imagem:** Os caminhos das imagens no arquivo `index.html` foram atualizados para serem relativos à raiz do repositório (`./site/images/`), garantindo que as imagens sejam carregadas corretamente no GitHub Pages, que muitas vezes exige caminhos absolutos ou relativos à raiz do repositório.
 
-## Como Usar (Localmente)
-
-Para visualizar o site localmente, siga os passos:
-
-1.  Faça o download ou clone este repositório.
-2.  Navegue até a pasta raiz do projeto (`site_thalles_roberto`).
-3.  Abra o arquivo `index.html` em seu navegador de preferência.
-
 ## Tecnologias Utilizadas
 
 -   HTML5
